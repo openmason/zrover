@@ -88,6 +88,7 @@
 				82189C091650F006004E9043 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		82189C091650F006004E9043 /* Products */ = {
 			isa = PBXGroup;
@@ -361,6 +362,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "roverz/roverz-Prefix.pch";
 				INFOPLIST_FILE = "roverz/roverz-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -372,6 +374,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "roverz/roverz-Prefix.pch";
 				INFOPLIST_FILE = "roverz/roverz-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};

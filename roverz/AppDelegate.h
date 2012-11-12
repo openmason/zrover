@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  roverz
 //
-//  Created by Eyal Arasu Ramakrishnan on 11/12/12.
+//  Created by el aras on 11/12/12.
 //  Copyright (c) 2012 openmason. All rights reserved.
 //
 
